@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onuvuti.lite",
+        "sha256_cert_fingerprints": ["3D:45:F5:BA:81:9A:44:BC:7B:77:7D:33:A7:29:80:BB:14:69:B1:DD:8F:A6:33:B3:4F:8C:2C:70:2F:A1:B7:58"]
+      }
+    }]
